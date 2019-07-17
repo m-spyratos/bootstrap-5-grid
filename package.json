@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-5-grid",
+  "version": "1.0.0",
+  "description": "Bootstrap 5 grid system and layout utilities",
+  "main": "css/grid.min.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-spyratos/bootstrap-5-grid.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "scss",
+    "grid",
+    "flex"
+  ],
+  "author": "Michael Spyratos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m-spyratos/bootstrap-5-grid/issues"
+  },
+  "homepage": "https://github.com/m-spyratos/bootstrap-5-grid",
+  "devDependencies": {}
+}
